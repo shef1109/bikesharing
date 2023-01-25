@@ -12,5 +12,5 @@ The purpose of this analysis was to create visualizations from the Citi Bike dat
 The full Tableau story can be viewed here: [NYC Citi Bike Analysis Dashboard](https://public.tableau.com/shared/KFYGZ36SG?:display_count=n&:origin=viz_share_link)
 
 ### 
-**1. NYC Citi Bike Data Visualizations - August 2019**
-
+**1. NYC Citi Bike Data**
+[NYC Citi Dashboard 1]
